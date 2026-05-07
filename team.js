@@ -54,12 +54,12 @@ document.addEventListener("DOMContentLoaded", function () {
 // ---------------------- TEAM DATA ---------------------- //
 const teamsData = {
     chief: [
-        { name: "UMA SHANKAR", role: "CONVENOR", img: "1.jpg", instagram: "https://www.instagram.com/itz_smart____/" },
+        { name: "UMA SHANKAR", role: "CONVENOR", img: "1.JPG", instagram: "https://www.instagram.com/itz_smart____/" },
         { name: "JAYANTH", role: "CO-CONVENOR", img: "j.jpg", instagram: "" },
         { name: "SWETHA", role: "CHIEF-EXECUTIVE", img: "s.jpg", instagram: "" }
     ],
     design: [
-        { name: "Uma Shankar", role: "WEBSITE DEVELOPER", img: "1.jpg", instagram: "https://www.instagram.com/itz_smart____/" }
+        { name: "Uma Shankar", role: "WEBSITE DEVELOPER", img: "1.JPG", instagram: "https://www.instagram.com/itz_smart____/" }
     ],
     arts: [
         { name: "Nalini", role: "CHIEF", img: "n.jpg", instagram: "" },
